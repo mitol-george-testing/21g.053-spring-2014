@@ -1,0 +1,36 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Social Justice"
+    ],
+    [
+      "Society",
+      "European and Russian Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "24f3f1d7-fd77-e510-c075-eb7bcc57e2ba"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Understanding Contemporary French Politics",
+  "course_description": "This course examines the changes in contemporary French society through the study of political debates, reforms and institutions since 1958, and analyzes the deep influence of politics on cultural and social life, despite a decline in political participation. Public controversies and political cleavages, from the Algerian war to postcolonial issues, from the birth of the European Union to the recent financial crisis, and from the moral \"revolution\" of the seventies to the recognition of new families are revisited.\n\nThis course is taught in English.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.053",
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "title": "Course Metadata"
+}
